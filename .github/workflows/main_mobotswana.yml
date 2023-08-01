@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'mobotswana'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_123C0201D15143478F48D193A512982D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_711A7DD4C32B49F182E3B74C0354889C }}
           package: .
